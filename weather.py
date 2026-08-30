@@ -6,6 +6,11 @@ places = [
     {"name": "Pemaquid Beach", "lat": 43.871, "lon": -69.519},
     {"name": "Popham Beach", "lat": 43.752, "lon": -69.784},
     {"name": "Greenville", "lat": 45.459, "lon": -69.591},
+    {"name": "Mount Vernon", "lat": 40.923, "lon": -73.837},
+    {"name": "Shrub Oak", "lat": 41.321, "lon": -73.830},
+    {"name": "Sao Paulo", "lat": -23.534, "lon": -46.625},
+    {"name": "Rio Preto", "lat": -20.813, "lon": -49.380},
+    {"name": "Rondonopolis", "lat": -16.460, "lon": -54.640},
 ]
 
 words = {
@@ -14,6 +19,9 @@ words = {
     2: "partly cloudy",
     3: "overcast",
     45: "foggy",
+    51: "drizzly",
+    53: "drizzly",
+    55: "drizzly",
     61: "rainy",
     71: "snowy",
     80: "showery",
